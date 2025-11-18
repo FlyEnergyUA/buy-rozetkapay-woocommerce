@@ -1,4 +1,4 @@
-# Платіжний шлюз RozetkaPay Оплата частинами для WooCommerce
+# Платіжний шлюз RozetkaPay Оплата частинами для WooCommerce 
 
 <p align="center">
   <img src="assets/images/rozetkapay-logo.png" alt="Логотип RozetkaPay" width="200" />
