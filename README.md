@@ -1,10 +1,10 @@
-# Платіжний шлюз Купити з RozetkaPay для WooCommerce
+# Платіжний шлюз RozetkaPay Оплата частинами для WooCommerce
 
 <p align="center">
-  <img src="assets/img/rozetkapay-logo.svg" alt="Логотип RozetkaPay" width="200" />
+  <img src="assets/images/rozetkapay-logo.png" alt="Логотип RozetkaPay" width="200" />
 </p>
 
-WooCommerce Payment Gateway для Купити з RozetkaPay
+WooCommerce Payment Gateway для оплати товарів банкывськими картами або оплатою частинами через RozetkaPay
 
 ---
 
